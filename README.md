@@ -1,4 +1,4 @@
-# Yupi
+# Volo Emulator
 
 #### About
 Yupi is an open source Habbo Emulator aimed to resemble the original product.
